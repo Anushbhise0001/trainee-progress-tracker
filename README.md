@@ -14,6 +14,99 @@ Welcome to the Trainee Progress Tracker repository! This repository is designed 
 
 Here’s a breakdown of the repository structure:
 
+```
+trainee-progress-tracker/
+│
+├── README.md
+├── instructions.md
+├── technologies/
+│   ├── html/
+│   │   ├── EssentialTopics.md
+│   │   ├── assessments.md
+│   │   └── projects.md
+│   ├── css/
+│   │   ├── EssentialTopics.md
+│   │   ├── assessments.md
+│   │   └── projects.md
+│   ├── javascript/
+│   │   ├── EssentialTopics.md
+│   │   ├── assessments.md
+│   │   └── projects.md
+│   ├── git-github/
+│   │   ├── EssentialTopics.md
+│   │   ├── assessments.md
+│   │   └── projects.md
+│   ├── nodejs/
+│   │   ├── EssentialTopics.md
+│   │   ├── assessments.md
+│   │   └── projects.md
+│   ├── expressjs/
+│   │   ├── EssentialTopics.md
+│   │   ├── assessments.md
+│   │   └── projects.md
+│   ├── mongodb/
+│   │   ├── EssentialTopics.md
+│   │   ├── assessments.md
+│   │   └── projects.md
+│   ├── reactjs/
+│   │   ├── EssentialTopics.md
+│   │   ├── assessments.md
+│   │   └── projects.md
+│   └── nextjs/
+│       ├── EssentialTopics.md
+│       ├── assessments.md
+│       └── projects.md
+├── students/
+│   └── students.md
+│   └── companyname/
+│       └── yourname/
+│           └── technologies/
+│               ├── html/
+│               │   ├── EssentialTopics.md
+│               │   ├── assessments.md
+│               │   └── projects.md
+│               ├── css/
+│               │   ├── EssentialTopics.md
+│               │   ├── assessments.md
+│               │   └── projects.md
+│               ├── javascript/
+│               │   ├── EssentialTopics.md
+│               │   ├── assessments.md
+│               │   └── projects.md
+│               ├── git-github/
+│               │   ├── EssentialTopics.md
+│               │   ├── assessments.md
+│               │   └── projects.md
+│               ├── nodejs/
+│               │   ├── EssentialTopics.md
+│               │   ├── assessments.md
+│               │   └── projects.md
+│               ├── expressjs/
+│               │   ├── EssentialTopics.md
+│               │   ├── assessments.md
+│               │   └── projects.md
+│               ├── mongodb/
+│               │   ├── EssentialTopics.md
+│               │   ├── assessments.md
+│               │   └── projects.md
+│               ├── reactjs/
+│               │   ├── EssentialTopics.md
+│               │   ├── assessments.md
+│               │   └── projects.md
+│               └── nextjs/
+│                   ├── EssentialTopics.md
+│                   ├── assessments.md
+│                   └── projects.md
+├── lectures/
+│   ├── day-1/
+│   │   ├── lecture-details.md
+│   ├── day-2/
+│   │   ├── lecture-details.md
+│   ├── day-3/
+│   │   ├── lecture-details.md
+│   └── ...
+```
+
 - **technologies/**: Contains folders for each technology with essential topics, assessments, and projects.
   - **html/**, **css/**, **javascript/**, **git-github/**, **nodejs/**, **expressjs/**, **mongodb/**, **reactjs/**, **nextjs/**
     - `EssentialTopics.md`: List of essential topics.
