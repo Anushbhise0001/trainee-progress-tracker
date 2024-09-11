@@ -3,7 +3,7 @@
 Please check off each topic as you complete it.
 
 - [ ] **Introduction to HTML**
-  - [ ] What is HTML?
+  - [X] What is HTML?
   - [ ] Basic HTML Document Structure
   - [ ] HTML Elements and Tags
   - [ ] Attributes and Values
