@@ -4,9 +4,9 @@ Please check off each topic as you complete it.
 
 - [ ] **Introduction to HTML**
   - [X] What is HTML?
-  - [ ] Basic HTML Document Structure
-  - [ ] HTML Elements and Tags
-  - [ ] Attributes and Values
+  - [X] Basic HTML Document Structure
+  - [X] HTML Elements and Tags
+  - [X] Attributes and Values
 
 - [ ] **HTML Text Formatting**
   - [ ] Headings (`<h1>` to `<h6>`)
